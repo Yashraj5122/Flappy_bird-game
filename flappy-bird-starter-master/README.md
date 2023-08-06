@@ -12,12 +12,6 @@ Navigate to the folder and install the requirements using pip
   pip install -r requirements.txt
   python flappy.py
 ```
-
-## Authors
-
-- [@shiroyasha9](https://github.com/shiroyasha9)
-- [@sanjana2417](https://github.com/sanjana2417)
-
 ## Screenshots
 
 Main Screen
